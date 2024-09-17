@@ -44,7 +44,7 @@ git clone https://github.com/prateek0809/Wine_Quality_Prediciton_Using_ML.git
 jupyter notebook
 ```
 
-3. Open the wine_quality_prediction.ipynb notebook in your browser
+3. Open the Wine_Quality_Prediction.ipynb notebook in your browser
 
 ## Usage
 
